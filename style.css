@@ -98,7 +98,12 @@ img {
   #steps .row .col-md-12{
     margin-top: 15px;
   }
-
+  #steps [class*="col-"]{
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 5px ;
+    padding: 10px;
+  }
 }
 
 @media all and (min-width:992px){
