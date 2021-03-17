@@ -5,13 +5,6 @@
   margin-top: 100px;
 }
 
-/* BLOCCO LEZIONI */
-/* #lezioni .row>.lectures,
-{
-  width: 50%;
-
-} */
-
 #lezioni .row img {
   /* per centrare orizzontalmente */
   display: block;
@@ -24,12 +17,6 @@
 }
 
 /* BLOCCO STEPS */
-#steps .row>.left,
-#steps .row>.central,
-#steps .row>.right {
-  float: left;
-  width: 33%;
-}
 
 #steps {
   text-align: center;
@@ -40,12 +27,6 @@
   text-align: center;
 }
 
-#why .row>.first,
-#why .row>.second,
-#why .row>.third {
-  width: 100%;
-  margin-top: 80px;
-}
 
 #why .row img {
   background-color: #428bca;
